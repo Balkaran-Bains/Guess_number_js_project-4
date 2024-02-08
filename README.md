@@ -5,5 +5,9 @@ My 4th js project.
 
 
 
-Uploading Screen Recording 2024-02-08 at 9.23.16 PM.mov…
+https://github.com/Balkaran-Bains/Guess_number_js_project-4/assets/100841111/f6de1f79-8e22-40d6-bb22-90f1782458e2
+
+
+
+
 
